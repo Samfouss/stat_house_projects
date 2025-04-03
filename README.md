@@ -1,2 +1,2 @@
 # StatHouseProject
-Projet stathouse où j'offre mes services en statistique : collecte, traitement de données, machine learning, ...
+All in one stat, machine learning, deeep learning, AI, ... projects 
